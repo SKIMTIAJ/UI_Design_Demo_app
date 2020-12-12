@@ -6,7 +6,7 @@
     android:useLevel="false">
 
     <!--<solid android:color="@android:color/transparent" />-->
-    <solid android:color="@color/teal_700"/>
+    <solid android:color="#0B9F12"/>
 
     <stroke
         android:width="0dp"
